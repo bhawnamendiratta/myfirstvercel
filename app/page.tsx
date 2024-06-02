@@ -9,7 +9,7 @@ export default function Page() {
       <p>
         
           <h2> 1. Ranking Support Tasks</h2>
-Most Favourite (Explanations):
+  {'Most Favourite (Explanations):
 
 Find and recruit teammates for the support team: I like learning about people and aligning them to the projects I am working with. Write and maintain support articles and docs pages: I have enjoyed writing KBs for the internal team and upskilling the team to work with customers. Create video tutorials to help teach users a specific feature or use case: I enjoy teaching users to use products. Work with engineering teams during incidents and provide updates to internal and external stakeholder: I have enjoyed working with engineering teams in my current role this provides ample learning opportunities. Work with the product team to develop a new feature based on feedback from customers: I like talking to customers and understand their pain points and work with engineering to prioritise the features.
 
@@ -83,7 +83,7 @@ Improved Error Handling: Vercel can strive for more informative and actionable e
 Here are some suggestions for improving the familiarization exercise:
 
 Provide a Sandbox Environment: A pre-configured Vercel project with sample code could streamline the process. Integrate Feedback Mechanisms: Allow participants to provide feedback throughout the exercise to identify areas for improvement. Cater to Different Skill Levels: Offer tiered exercises with varying complexity to accommodate different experience levels. Focus on Practical Application: Emphasize real-world scenarios and troubleshooting techniques relevant to support tasks. Open-Ended Challenges: Include open-ended challenges that encourage creative problem-solving and initiative. By incorporating these suggestions, the familiarization exercise can be a more engaging and informative experience for potential Vercel support staff.
-  
+  '}
       </p>
       <div className="my-8">
         <BlogPosts />

@@ -6,7 +6,7 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Interview
       </h1>
-      <p className="mb-4">
+      <p>
         
           <h2> 1. Ranking Support Tasks</h2>
 Most Favourite (Explanations):
